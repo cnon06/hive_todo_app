@@ -14,3 +14,5 @@ A few resources to get you started if this is your first Flutter project:
 For help getting started with Flutter development, view the
 [online documentation](https://docs.flutter.dev/), which offers tutorials,
 samples, guidance on mobile development, and a full API reference.
+
+With this app, you can save your daily tasks to your local database using the hive library, and if you change the language settings of the phone to Turkish or English, the language in the interface will change.
